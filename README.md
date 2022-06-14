@@ -1,2 +1,3 @@
 # LuckyLots
-Created with CodeSandbox
+
+https://luckylots.web.app/
